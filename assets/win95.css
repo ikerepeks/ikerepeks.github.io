@@ -25,7 +25,8 @@ body {
     padding-bottom: 28px;
 }
 .bg-cloud{
-    background-image: url(clouds2.jpg);
+    background-image: url(city.jpg);
+    background-attachment: fixed;
     color:#212529;
 }
 
